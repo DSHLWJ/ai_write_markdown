@@ -1,0 +1,10 @@
+*.log
+/venv
+/.idea
+*.png
+/bin
+/obj
+/packages
+_index.md
+chinese.md
+main.md
